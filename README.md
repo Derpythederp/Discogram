@@ -10,10 +10,10 @@ Alternatively you can use the requirements.txt I have provided:
 `pip install -r requirements.txt`
 
 ## Party time!!! 🕺🕺🕺
-What you should see:
-<img src="Assets/Images/Example.png" width=50%>
-Here's another:
-<img src="Assets/Images/Example2.png" width=50%>
+What you should see:  
+<img src="Assets/Images/Example.png" width=50%>  
+Here's another:  
+<img src="Assets/Images/Example2.png" width=50%>  
    
 
 
