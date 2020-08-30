@@ -11,10 +11,11 @@ Alternatively you can use the requirements.txt I have provided:
 
 ## Party time!!! 🕺🕺🕺
 What you should see:
-![Example](Assets/Images/Example.png)
-<img src="Assets/Images/Example.png" width=60%>
+
+<img src="Assets/Images/Example.png" width=50%>
+<img src="Assets/Images/Example2.png" width=50%>
    
-![Example2](Assets/Images/Example2.png)
+
 
 
 
