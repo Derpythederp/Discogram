@@ -11,9 +11,14 @@ Alternatively you can use the requirements.txt I have provided:
 
 ## Party time!!! 🕺🕺🕺
 What you should see:
-
-<img src="Assets/Images/Example.png" width=30% style="float=left;">
-<img src="Assets/Images/Example2.png" width=50% style="float=right;">
+<style>
+.column{
+   float:left;
+   width: 50%;
+   padding: 1px;
+</style>
+<img src="Assets/Images/Example.png" style="width=100%">
+<img src="Assets/Images/Example2.png" style="width=100%">
    
 
 
