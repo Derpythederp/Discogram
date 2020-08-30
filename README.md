@@ -12,23 +12,7 @@ Alternatively you can use the requirements.txt I have provided:
 ## Party time!!! 🕺🕺🕺
 What you should see:
 ![Example](Assets/Images/Example.png)
-   _                             .-.  
-  / )  .-.    ___          __   (   )  
- ( (  (   ) .'___)        (__'-._) (  
-  \ '._) (,'.'               '.     '-.  
-   '.      /  "\               '    -. '.  
-     )    /   \ \   .-.   ,'.   )  (  ',_)    _  
-   .'    (     \ \ (   \ . .' .'    )    .-. ( \  
-  (  .''. '.    \ \|  .' .' ,',--, /    (   ) ) )  
-   \ \   ', :    \    .-'  ( (  ( (     _) (,' /  
-    \ \   : :    )  / _     ' .  \ \  ,'      /  
-  ,' ,'   : ;   /  /,' '.   /.'  / / ( (\    (   
-  '.'      "   (    .-'. \       ''   \_)\    \   
-                \  |    \ \__             )    )   
-              ___\ |     \___;           /  , /   
-             /  ___)                    (  ( (   
-             '.'                         ) ;) ;   
-                                        (_/(_/   
+<img src="Assets/Images/Example.png" width=60%>
    
 ![Example2](Assets/Images/Example2.png)
 
